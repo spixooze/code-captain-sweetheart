@@ -1,5 +1,5 @@
 {
-  "name": "Captain Sweetheart",
+  "name": "Captain Sweetheart 💗 Italics",
   "type": "dark",
   "colors": {
     "editor.background": "#212121",
@@ -597,6 +597,39 @@
       "settings": {
         "foreground": "#b267e6"
       }
+    },
+    {
+      "name": "Need More Italics",
+      "scope": [
+        "comment",
+        "comment keyword",
+        "comment markup.underline.link",
+        "comment string",
+        "comment punctuation.definition",
+        "comment punctuation",
+        "comment text",
+        "entity.other.inherited-class",
+        "entity.other.attribute-name",
+        "invalid",
+        "markup.italic",
+        "markup.quote",
+        "source.sass variable.other",
+        "source.sass variable.sass",
+        "source.scss variable.other",
+        "source.scss variable.scss",
+        "source.scss variable.sass",
+        "source.css variable.other",
+        "source.css variable.scss",
+        "storage.type",
+        "storage.modifier",
+        "support.type",
+        "entity.name.type.object.console",
+        "variable.parameter",
+        "parameters variable.function",
+        "variable.language",
+        "variable.parameter.function.language.special.self.python"
+      ],
+      "settings": { "fontStyle": "italic" }
     }
   ]
 }
